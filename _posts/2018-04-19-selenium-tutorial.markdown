@@ -77,6 +77,6 @@ For this basic test, we're going to assert that an element with the class _heade
 
 In layman's terms we've:
 * Initialized a Firefox browser
-* Accessed the my personal website
+* Accessed my personal website
 * Retreived an element from the webpage by class name (_header_)
 * Verified that it is in fact visible on the page
